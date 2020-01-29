@@ -1,0 +1,26 @@
+{
+  "name": "jupy",
+  "version": "1.0.0",
+  "description": "JavaScript and Node.js in Jupyter Lab/Notebooks",
+  "main": "index.js",
+  "scripts": {
+    "test": "testjupy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alxfed/jupy.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "Jupyter"
+  ],
+  "author": "alxfed@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alxfed/jupy/issues"
+  },
+  "homepage": "https://github.com/alxfed/jupy#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
